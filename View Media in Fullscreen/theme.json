@@ -2,8 +2,8 @@
 	"name": "View Media in Fullscreen",
 	"author": "WorldFS",
 	"target": "Media",
-	"version": "v1.0",
-	"description": "Display the selected image in fullscreen when viewing them in Media page",
+	"version": "v1.1",
+	"description": "Display the selected image in fullscreen when viewing them in Media page, and also removes the slight blur effect from the image",
 	"manifest_version": 5,
 	"inject": {
 		"shared.css": [
