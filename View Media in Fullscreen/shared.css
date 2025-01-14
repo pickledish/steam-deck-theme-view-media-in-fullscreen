@@ -1,16 +1,12 @@
 /* Main patch */
-.mediapage_Screenshot_3Qh8h.mediapage_Fullscreen_un2hc .mediapage_Image_dmMTv {
+.ClipManager ._1UHcyIKxLXAv4x6mGw4EW3 .IZLKpdf1TW21itUMICab8 {
   position: fixed;
   top: 0;
   left: 0;
   width: 100vw;
   height: 100vh;
   z-index: 10000;
-}
-
-/* Patch images with Spoiler alert */
-.mediapage_FullscreenScreenshot_35IHD .mediapage_Screenshot_3Qh8h .mediapage_ImageContainer_120HU .mediapage_Image_dmMTv.mediapage_Spoiler_QIvhs {
-  position: fixed;
+  image-rendering: pixelated;
 }
 
 /* Make sure popup Menus are still visible */
