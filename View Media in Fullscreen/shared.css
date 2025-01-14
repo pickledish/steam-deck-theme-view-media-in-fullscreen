@@ -5,6 +5,7 @@
   left: 0;
   width: 100vw;
   z-index: 10000;
+  image-rendering: pixelated;
 }
 
 /* Make sure popup Menus are still visible */
