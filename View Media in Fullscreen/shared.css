@@ -3,7 +3,8 @@
   position: fixed;
   top: 0;
   left: 0;
-  width: 100vw;
+  /* 99.9 instead of 100 leads to pixel-perfect scaling on the deck display for some reason */
+  width: 99.9vw;
   z-index: 10000;
 }
 

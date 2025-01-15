@@ -35,16 +35,6 @@ fullscreen when viewing them in Media page.
 3. Open Quick Access Menu -> Decky -> CSS Loader -> Reload themes
 4. Turn on `View Media in Fullscreen`
 
-
-## Theme Options
-
-![menu](./img/menu.jpg)
-
-Users aren't expected to turn on `Delay Effective Time` unless it breaks
-other pages. If enabled, the theme won't apply until about 10
-seconds after user enters Media page. See the comment in [source code](./View%20Media%20in%20Fullscreen\patch_global_div.css)
-for explanation.
-
 ## Development Notes
 
 1. [Minimal theme template](https://github.com/suchmememanyskill/Steam-Deck-Theme-Template/tree/main/Sample%20Simple%20Theme)
