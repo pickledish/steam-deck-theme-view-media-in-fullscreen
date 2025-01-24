@@ -1,9 +1,0 @@
-
-/* Adds "pixelated" image rendering to the screenshots, so we skip the
- * blur-inducing bilinear filter effect in place by default.
- *
- * (happens because viewport isn't native 800p, it's downscaled)
- */
- .ClipManager ._1UHcyIKxLXAv4x6mGw4EW3 .IZLKpdf1TW21itUMICab8 {
-   image-rendering: pixelated;
- }

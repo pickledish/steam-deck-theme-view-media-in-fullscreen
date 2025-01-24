@@ -1,9 +1,9 @@
 {
   "name": "View Media in Fullscreen",
-  "author": "WorldFS",
+  "author": "WorldFS, pickledish",
   "target": "Media",
   "version": "v1.1",
-  "description": "Display the selected image in fullscreen when viewing them in Media page, and also optionally sets a sharper image-rendering",
+  "description": "Display the selected image in fullscreen and sharp when viewing in the Media page",
   "manifest_version": 5,
   "inject": {
     "shared.css": [
@@ -11,18 +11,5 @@
     ]
   },
   "dependencies": {},
-  "patches": {
-    "Sharp Image Rendering": {
-      "default": "No",
-      "type": "checkbox",
-      "values": {
-        "No": {},
-        "Yes": {
-          "pixelated.css": [
-            "SP"
-          ]
-        }
-      }
-    }
-  }
+  "patches": {}
 }
