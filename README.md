@@ -3,11 +3,9 @@
 A Steam Deck Gaming Mode custom CSS theme to display the selected image in
 fullscreen when viewing them in Media page.
 
-**Default Media view**
-![before](./img/before.jpg)
+**Preview**
 
-**With this Theme**
-![after](./img/after.jpg)
+![preview](./img/preview.jpg)
 
 ## Prerequisite
 
