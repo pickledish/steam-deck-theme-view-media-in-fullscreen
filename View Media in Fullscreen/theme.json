@@ -1,6 +1,6 @@
 {
   "name": "View Media in Fullscreen",
-  "author": "WorldFS",
+  "author": "WorldFS, pickledish",
   "target": "Media",
   "version": "v1.1",
   "description": "Display the selected image in fullscreen and sharp when viewing in the Media page",
